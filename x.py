@@ -10,5 +10,5 @@ for i in lst:
                  datetime.now().minute == int(i[1].split(':')[1]):
                 webbrowser.open(i[0])
                 print("Class opened")
-                time.sleep(900)
+                time.sleep(30)
                 break
