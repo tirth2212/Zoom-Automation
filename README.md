@@ -1,4 +1,4 @@
-# zoomautomation
+# Zoom_Automation
 Bored of clicking links one after the other, copy all links and let computer do it for you
 
 The code basically opens the zoom id links and also can be used for google meet, basically 
